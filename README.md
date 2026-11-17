@@ -18,5 +18,5 @@ python main.py
 ## Тесты
 
 ```text
-python -m unittest discover -v
+python -m unittest discover -s tests -v 
 ```
